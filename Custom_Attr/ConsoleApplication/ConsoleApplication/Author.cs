@@ -4,7 +4,14 @@ namespace ConsoleApplication
 {
     class Author : Attribute
     {
-        public string SomeProperty { get; set; }
+        public Author(string name)
+        {
+            this.Name = name;
+            this.Version = 1.0;
+        }
+
+        private string Name { get; set; }
+        public double Version { get; set; }
 
     }
 }
