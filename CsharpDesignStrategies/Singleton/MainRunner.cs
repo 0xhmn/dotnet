@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CsharpDesignStrategies
+namespace Singleton
 {
-    class Program
+    class MainRunner
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+
         }
     }
 }

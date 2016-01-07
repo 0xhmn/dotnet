@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CsharpDesignStrategies")]
+[assembly: AssemblyTitle("Singleton")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CsharpDesignStrategies")]
+[assembly: AssemblyProduct("Singleton")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7a559c31-750f-45f5-8c4c-0e469f0a5b1f")]
+[assembly: Guid("1c4eb4d8-8000-4dd2-a611-dd66a3a688f8")]
 
 // Version information for an assembly consists of the following four values:
 //
