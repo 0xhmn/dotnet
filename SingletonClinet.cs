@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-namespace SandBox
+namespace SandBox.Tests
 {
     [TestClass]
     public class SingletonClient
@@ -31,7 +31,7 @@ namespace SandBox
             var s3 = SingletonThreeAndHalf.Instance;
             Assert.AreEqual(s2, s3);
         }
-
+         
         [TestMethod]
         public void UseSingletonBestPractice()
         {
